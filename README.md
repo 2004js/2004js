@@ -107,10 +107,6 @@ A computer vision project focused on classifying waste using convolutional neura
 
 ---
 
-## 📈 Contribution Activity
-
----
-
 ## 🐍 Contribution Activity
 
 <div align="center">
