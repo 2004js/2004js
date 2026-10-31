@@ -1,4 +1,10 @@
 
+<div align="center">
+  <img src="./banner.png" width="100%" alt="Joy Saha - Developer Banner" />
+</div>
+
+<br/>
+
 <!--
   GitHub Profile README
   Repository: https://github.com/2004js/2004js
