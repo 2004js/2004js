@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./banner.png" width="100%" alt="Joy Saha - Developer Banner" />
+  <img src="./Joy Saha_ Neon AI Developer Workspace.png" width="100%" alt="Joy Saha - Developer Banner" />
 </div>
 
 <br/>
