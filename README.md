@@ -119,17 +119,24 @@ A computer vision project focused on classifying waste using convolutional neura
 
 ---
 
+
 ## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/2004js">
-  <img src="https://img.shields.io/badge/GitHub-2004js-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-2004js-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+<a href="https://www.linkedin.com/in/sahajoy2004">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+💬 Feel free to connect with me for collaboration, projects, and tech discussions!
 
 </div>
 
----
 
 <div align="center">
 
