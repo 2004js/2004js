@@ -109,13 +109,15 @@ A computer vision project focused on classifying waste using convolutional neura
 
 ## 📈 Contribution Activity
 
+## 🐍 Contribution Activity
+
 <div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=2004js&theme=tokyo-night&hide_border=true)
-
+  <img
+    src="https://raw.githubusercontent.com/2004js/2004js/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </div>
-
----
 
 ## 🤝 Connect With Me
 
