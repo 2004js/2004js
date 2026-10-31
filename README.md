@@ -1,107 +1,139 @@
+
+<!--
+  GitHub Profile README
+  Repository: https://github.com/2004js/2004js
+-->
+
+<div align="center">
+
 # 👋 Hey, I'm Joy Saha
 
-### `AI/ML Developer` · `Full-Stack Engineer` · `Cybersecurity Enthusiast`
+### AI/ML Developer · Full-Stack Developer · Cybersecurity Enthusiast
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Intelligent+Applications;Exploring+Machine+Learning;Engineering+Secure+Systems;Turning+Ideas+Into+Reality" />
-</p>
+Building intelligent applications, exploring machine learning, and developing technology-driven solutions.
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-2004js-181717?style=for-the-badge&logo=github)](https://github.com/2004js)
+[![Profile Views](https://komarev.com/ghpvc/?username=2004js&style=for-the-badge&color=blueviolet)](https://github.com/2004js)
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech Computer Science & Engineering student at **SRM Institute of Science and Technology**
-- 🤖 Interested in Artificial Intelligence, Machine Learning and Data Science
-- 🔐 Exploring Cybersecurity, Zero Trust Architecture and Secure Systems
-- 🌐 Building full-stack applications and intelligent products
-- 💡 Passionate about solving real-world problems through technology
-- 📈 Continuously improving my DSA and problem-solving skills
+- 🎓 Computer Science and Engineering student.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 🌐 Building full-stack web applications.
+- 🔐 Exploring cybersecurity and intelligent threat detection.
+- 🧠 Learning by building practical projects and solving problems.
+- 🚀 Always looking to improve my development and problem-solving skills.
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" />
 </p>
 
 ### Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
 </p>
 
-### AI / ML & Data
+### AI / Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,supabase" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛡️ ZeroSight — Privacy-Native Vehicle Security
-Cybersecurity-focused vehicle security platform featuring anomaly detection, privacy protection, role-based access control and tamper-evident audit logging.
+### 🌐 [MentorsConnect](https://github.com/2004js/Mc)
 
-[View Project](https://github.com/Juzt-nik/ZeroSight)
+A modern mentorship platform designed to connect learners with mentors through an interactive web experience.
 
-### 🔋 BATT-AI — EV Battery Intelligence
-Machine learning project predicting battery State of Health (SOH) and Remaining Useful Life (RUL) using NASA battery aging data.
+**Technologies:** React · TypeScript · Vite · Tailwind CSS
 
-### 💧 Smart Water Locator
-AI-powered groundwater assessment platform using environmental parameters and machine learning models.
-
-### ☀️ Solar Health
-Solar performance monitoring platform featuring health scoring, energy analytics and performance insights.
-
-### 🧠 Smriti
-Healthcare-oriented application exploring cognitive screening and AI-assisted monitoring features.
+🔗 [View Repository](https://github.com/2004js/Mc) · [Live Demo](https://mc-seven-lovat.vercel.app)
 
 ---
 
-## 📊 GitHub Analytics
+### 🛡️ [Defence AI – Cyber Incident Classifier](https://github.com/2004js/defence_ai)
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=2004js&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2004js&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+An AI-powered system designed to identify potential cyber threats, including phishing, social engineering, OPSEC leaks, and malicious links.
 
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=2004js&theme=tokyonight&hide_border=true" />
-</p>
+**Technologies:** Python · PyTorch · Hugging Face Transformers · DistilBERT · Gradio
+
+🔗 [View Repository](https://github.com/2004js/defence_ai)
 
 ---
 
-## 🐍 Contribution Activity
+### 🧠 [Sentiment Analysis using LSTM](https://github.com/2004js/SentimemntalAnalysis)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/2004js/2004js/output/github-contribution-grid-snake-dark.svg" alt="Contribution animation" />
-</p>
+A deep learning project that uses an LSTM neural network to classify movie reviews as positive or negative using the IMDB dataset.
+
+**Technologies:** Python · TensorFlow · Keras · LSTM
+
+🔗 [View Repository](https://github.com/2004js/SentimemntalAnalysis)
+
+---
+
+### ♻️ [CNN Waste Classification](https://github.com/2004js/CNN-Waste-Classification-Project)
+
+A computer vision project focused on classifying waste using convolutional neural networks.
+
+**Technologies:** Python · CNN · Deep Learning
+
+🔗 [View Repository](https://github.com/2004js/CNN-Waste-Classification-Project)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=2004js&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=2004js&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/2004js">
-    <img src="https://img.shields.io/badge/GitHub-2004js-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/2004js">
+  <img src="https://img.shields.io/badge/GitHub-2004js-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <b>Building. Learning. Experimenting. Repeating. 🚀</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Thanks for visiting my profile!</i>
-</p>
+### 💡 "Building today what inspires tomorrow."
+
+⭐ Thanks for visiting my profile!
+
+</div>
